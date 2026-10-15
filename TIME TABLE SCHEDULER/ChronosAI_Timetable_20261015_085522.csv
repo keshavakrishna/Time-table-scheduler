@@ -1,0 +1,145 @@
+session_id,course_code,course_name,dept,batch,batch_strength,faculty_id,faculty_name,day,slot,room_id,room_name,room_type,room_capacity,actual_attendance,is_overflow,is_room_out_of_order,is_substituted,substitute_faculty_id,substitute_faculty_name,absence_reason,reallocated_room_id,reallocation_reason,status
+EE303_S2,EE303,Circuits & Sensors Lab,EE,EE-3A,50,FAC_EE_08,Dr. Harry Nyquist,Monday,09:00 - 10:00,LAB-EE-HV,High Voltage & Grid Simulator Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CV503_S1,CV503,Heavy Structures Testing Lab,CV,CV-5A,50,FAC_CV_06,Dr. Fazlur Khan,Monday,09:00 - 10:00,LAB-CV-STR,Structural Heavy Testing Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+ISE502_S3,ISE502,Network Security & Cryptography,ISE,ISE-5A,60,FAC_ISE_03,Dr. Radia Perlman,Monday,09:00 - 10:00,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+AI501_S2,AI501,Deep Learning & Neural Nets,AIML,AIML-5A,58,FAC_AIML_01,Dr. Geoffrey Hinton,Monday,09:00 - 10:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+ISE302_S3,ISE302,Computer Networks Architecture,ISE,ISE-3A,56,FAC_ISE_02,Dr. Vint Cerf,Monday,09:00 - 10:00,CR-ISE-204,ISE Codd Classroom 204,Classroom,65,,False,False,False,,,,,,Normal
+ME302_S2,ME302,Strength of Materials,ME,ME-3A,52,FAC_ME_06,Dr. Stephen Timoshenko,Monday,09:00 - 10:00,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ISE501_S3,ISE501,Information Retrieval Systems,ISE,ISE-5A,60,FAC_ISE_05,Dr. Larry Page,Monday,10:00 - 11:00,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+AI503_S2,AI503,Generative & Language Models,AIML,AIML-5A,58,FAC_AIML_02,Dr. Yann LeCun,Monday,10:00 - 11:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE503_S1,EE503,Digital Signal Processing,EE,EE-5A,52,FAC_EE_06,Dr. Claude Shannon,Monday,10:00 - 11:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+EE301_S3,EE301,Electromagnetic Fields,EE,EE-3A,50,FAC_EE_01,Dr. Michael Faraday,Monday,10:00 - 11:00,CR-EE-302,EE Maxwell Lecture Room 302,Classroom,60,,False,False,False,,,,,,Normal
+CV504_S2,CV504,Construction Project Management,CV,CV-5A,50,FAC_CV_07,Dr. Emily Warren Roebling,Monday,10:00 - 11:00,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CS301_S3,CS301,Data Structures & Algorithms,CS,CS-3A,58,FAC_CS_04,Dr. Donald Knuth,Monday,11:15 - 12:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,77.0,True,False,False,,,,,,Capacity Overflow
+ME502_S1,ME502,Heat & Mass Transfer,ME,ME-5A,54,FAC_ME_08,Dr. Sadi Carnot,Monday,11:15 - 12:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+CV302_S2,CV302,Hydraulics & Fluid Power,CV,CV-3A,48,FAC_CV_08,Dr. John Smeaton,Monday,11:15 - 12:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+AI303_S2,AI303,Applied ML & MLOps Lab,AIML,AIML-3A,55,FAC_AIML_09,Dr. Peter Norvig,Monday,01:15 - 02:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+ME303_S2,ME303,Digital CAD Modeling Lab,ME,ME-3A,52,FAC_ME_04,Dr. Henry Ford,Monday,01:15 - 02:15,LAB-ME-CAD,CAD/CAM Digital Simulation Lab,Hardware Lab,60,,False,False,False,,,,,,Normal
+ISE304_S3,ISE304,Data Structures for Info Sys,ISE,ISE-3A,56,FAC_ISE_05,Dr. Larry Page,Monday,01:15 - 02:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+CV501_S1,CV501,Structural Steel Design,CV,CV-5A,50,FAC_CV_04,Dr. Gustave Eiffel,Monday,01:15 - 02:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CV303_S2,CV303,Advanced Geomatics Surveying Lab,CV,CV-3A,48,FAC_CV_05,Dr. Arthur Casagrande,Monday,02:15 - 03:15,LAB-CV-STR,Structural Heavy Testing Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CS302_S2,CS302,Operating Systems Internals,CS,CS-3A,58,FAC_CS_05,Prof. Linus Torvalds,Monday,02:15 - 03:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI504_S1,AI504,Reinforcement Learning Agents,AIML,AIML-5A,58,FAC_AIML_06,Dr. Demis Hassabis,Monday,02:15 - 03:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+ME304_S2,ME304,Fluid Mechanics Principles,ME,ME-3A,52,FAC_ME_05,Dr. Ludwig Prandtl,Monday,02:15 - 03:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ISE303_S2,ISE303,Cloud Computing Lab,ISE,ISE-3A,56,FAC_ISE_01,Dr. Tim Berners-Lee,Tuesday,09:00 - 10:00,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+AI303_S1,AI303,Applied ML & MLOps Lab,AIML,AIML-3A,55,FAC_AIML_09,Dr. Peter Norvig,Tuesday,09:00 - 10:00,LAB-CS-SYS,Cloud Systems & OS Lab,Computer Lab,65,,False,False,False,,,Medical Leave (Emergency),,,Faculty Absent (Pending Cover)
+ISE504_S2,ISE504,Enterprise Design Patterns,ISE,ISE-5A,60,FAC_ISE_08,Dr. Martin Fowler,Tuesday,09:00 - 10:00,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+CS302_S1,CS302,Operating Systems Internals,CS,CS-3A,58,FAC_CS_05,Prof. Linus Torvalds,Tuesday,09:00 - 10:00,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ME501_S1,ME501,Internal Combustion Engines,ME,ME-5A,54,FAC_ME_03,Dr. Rudolf Diesel,Tuesday,09:00 - 10:00,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ME302_S3,ME302,Strength of Materials,ME,ME-3A,52,FAC_ME_06,Dr. Stephen Timoshenko,Tuesday,09:00 - 10:00,CR-ME-102,ME Dynamics Classroom 102,Classroom,60,,False,False,False,,,,,,Normal
+EE501_S1,EE501,Modern Power Grids,EE,EE-5A,52,FAC_EE_04,Dr. Charles Steinmetz,Tuesday,09:00 - 10:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV304_S2,CV304,Building Materials & Concrete,CV,CV-3A,48,FAC_CV_09,Dr. Robert Maillart,Tuesday,09:00 - 10:00,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+ISE503_S2,ISE503,Big Data Engineering Lab,ISE,ISE-5A,60,FAC_ISE_06,Dr. Sergey Brin,Tuesday,10:00 - 11:00,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+AI304_S1,AI304,Probabilistic Reasoning & Stats,AIML,AIML-3A,55,FAC_AIML_07,Dr. Daphne Koller,Tuesday,10:00 - 11:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE301_S2,EE301,Electromagnetic Fields,EE,EE-3A,50,FAC_EE_01,Dr. Michael Faraday,Tuesday,10:00 - 11:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CS502_S1,CS502,Distributed Systems,CS,CS-5A,62,FAC_CS_03,Dr. Barbara Liskov,Tuesday,11:15 - 12:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+CV501_S3,CV501,Structural Steel Design,CV,CV-5A,50,FAC_CV_04,Dr. Gustave Eiffel,Tuesday,11:15 - 12:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+EE502_S2,EE502,High Voltage Engineering Lab,EE,EE-5A,52,FAC_EE_05,Dr. Edith Clarke,Tuesday,01:15 - 02:15,LAB-EE-HV,High Voltage & Grid Simulator Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+ISE501_S1,ISE501,Information Retrieval Systems,ISE,ISE-5A,60,FAC_ISE_05,Dr. Larry Page,Tuesday,01:15 - 02:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+CS304_S1,CS304,Discrete Mathematics & Logic,CS,CS-3A,58,FAC_CS_01,Dr. Alan Turing,Tuesday,01:15 - 02:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI302_S1,AI302,Supervised Machine Learning,AIML,AIML-3A,55,FAC_AIML_04,Dr. Andrew Ng,Tuesday,01:15 - 02:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+ME502_S3,ME502,Heat & Mass Transfer,ME,ME-5A,54,FAC_ME_08,Dr. Sadi Carnot,Tuesday,01:15 - 02:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+EE302_S3,EE302,Electric Circuit Analysis,EE,EE-3A,50,FAC_EE_03,Dr. Oliver Heaviside,Tuesday,01:15 - 02:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV301_S3,CV301,Theoretical Soil Mechanics,CV,CV-3A,48,FAC_CV_01,Dr. Karl von Terzaghi,Tuesday,01:15 - 02:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CV303_S1,CV303,Advanced Geomatics Surveying Lab,CV,CV-3A,48,FAC_CV_05,Dr. Arthur Casagrande,Tuesday,02:15 - 03:15,LAB-CV-STR,Structural Heavy Testing Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CS504_S2,CS504,Software Architecture,CS,CS-5A,62,FAC_CS_08,Dr. Margaret Hamilton,Tuesday,02:15 - 03:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI504_S3,AI504,Reinforcement Learning Agents,AIML,AIML-5A,58,FAC_AIML_06,Dr. Demis Hassabis,Tuesday,02:15 - 03:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+AI301_S1,AI301,Foundations of Artificial Intelligence,AIML,AIML-3A,55,FAC_AIML_08,Dr. Stuart Russell,Tuesday,02:15 - 03:15,CR-AIML-402,AIML Bengio Hall 402,Classroom,65,,False,False,False,,,,,,Normal
+ME301_S3,ME301,Engineering Thermodynamics,ME,ME-3A,52,FAC_ME_01,Dr. James Watt,Tuesday,02:15 - 03:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+EE503_S2,EE503,Digital Signal Processing,EE,EE-5A,52,FAC_EE_06,Dr. Claude Shannon,Tuesday,02:15 - 03:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+EE304_S3,EE304,Semiconductor Devices,EE,EE-3A,50,FAC_EE_09,Dr. William Shockley,Tuesday,02:15 - 03:15,CR-EE-302,EE Maxwell Lecture Room 302,Classroom,60,,False,False,False,,,,,,Normal
+ISE303_S3,ISE303,Cloud Computing Lab,ISE,ISE-3A,56,FAC_ISE_01,Dr. Tim Berners-Lee,Wednesday,09:00 - 10:00,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+EE501_S3,EE501,Modern Power Grids,EE,EE-5A,52,FAC_EE_04,Dr. Charles Steinmetz,Wednesday,09:00 - 10:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV503_S3,CV503,Heavy Structures Testing Lab,CV,CV-5A,50,FAC_CV_06,Dr. Fazlur Khan,Wednesday,10:00 - 11:00,LAB-CV-STR,Structural Heavy Testing Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+AI304_S2,AI304,Probabilistic Reasoning & Stats,AIML,AIML-3A,55,FAC_AIML_07,Dr. Daphne Koller,Wednesday,10:00 - 11:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE504_S1,EE504,Control Systems Engineering,EE,EE-5A,52,FAC_EE_07,Dr. Hendrik Bode,Wednesday,10:00 - 11:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CS503_S3,CS503,Applied Cryptography Lab,CS,CS-5A,62,FAC_CS_09,Dr. Shafi Goldwasser,Wednesday,11:15 - 12:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+ME303_S3,ME303,Digital CAD Modeling Lab,ME,ME-3A,52,FAC_ME_04,Dr. Henry Ford,Wednesday,11:15 - 12:15,LAB-ME-CAD,CAD/CAM Digital Simulation Lab,Hardware Lab,60,,False,False,False,,,,,,Normal
+ISE502_S1,ISE502,Network Security & Cryptography,ISE,ISE-5A,60,FAC_ISE_03,Dr. Radia Perlman,Wednesday,11:15 - 12:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+ISE301_S3,ISE301,Database Management Systems,ISE,ISE-3A,56,FAC_ISE_04,Dr. Edgar F. Codd,Wednesday,11:15 - 12:15,CR-ISE-204,ISE Codd Classroom 204,Classroom,65,,False,False,False,,,,,,Normal
+EE304_S1,EE304,Semiconductor Devices,EE,EE-3A,50,FAC_EE_09,Dr. William Shockley,Wednesday,11:15 - 12:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV502_S1,CV502,Bridge & Tunnel Engineering,CV,CV-5A,50,FAC_CV_02,Dr. Thomas Telford,Wednesday,11:15 - 12:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+AI502_S2,AI502,Computer Vision & Visual AI,AIML,AIML-5A,58,FAC_AIML_05,Dr. Fei-Fei Li,Wednesday,01:15 - 02:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+AI301_S2,AI301,Foundations of Artificial Intelligence,AIML,AIML-3A,55,FAC_AIML_08,Dr. Stuart Russell,Wednesday,01:15 - 02:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE302_S2,EE302,Electric Circuit Analysis,EE,EE-3A,50,FAC_EE_03,Dr. Oliver Heaviside,Wednesday,01:15 - 02:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV501_S2,CV501,Structural Steel Design,CV,CV-5A,50,FAC_CV_04,Dr. Gustave Eiffel,Wednesday,01:15 - 02:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CV301_S1,CV301,Theoretical Soil Mechanics,CV,CV-3A,48,FAC_CV_01,Dr. Karl von Terzaghi,Wednesday,01:15 - 02:15,CR-CV-106,CV Brunel Classroom 106,Classroom,60,,False,False,False,,,,,,Normal
+EE502_S1,EE502,High Voltage Engineering Lab,EE,EE-5A,52,FAC_EE_05,Dr. Edith Clarke,Wednesday,02:15 - 03:15,LAB-EE-HV,High Voltage & Grid Simulator Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CS501_S3,CS501,Compiler Construction,CS,CS-5A,62,FAC_CS_02,Dr. Grace Hopper,Wednesday,02:15 - 03:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ISE501_S2,ISE501,Information Retrieval Systems,ISE,ISE-5A,60,FAC_ISE_05,Dr. Larry Page,Wednesday,02:15 - 03:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+CS304_S3,CS304,Discrete Mathematics & Logic,CS,CS-3A,58,FAC_CS_01,Dr. Alan Turing,Wednesday,02:15 - 03:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ME504_S3,ME504,Industrial Engineering,ME,ME-5A,54,FAC_ME_09,Dr. Lillian Gilbreth,Wednesday,02:15 - 03:15,CR-ME-102,ME Dynamics Classroom 102,Classroom,60,,False,False,False,,,,,,Normal
+ME301_S1,ME301,Engineering Thermodynamics,ME,ME-3A,52,FAC_ME_01,Dr. James Watt,Wednesday,02:15 - 03:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV302_S1,CV302,Hydraulics & Fluid Power,CV,CV-3A,48,FAC_CV_08,Dr. John Smeaton,Wednesday,02:15 - 03:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+ISE503_S3,ISE503,Big Data Engineering Lab,ISE,ISE-5A,60,FAC_ISE_06,Dr. Sergey Brin,Thursday,09:00 - 10:00,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+CS303_S2,CS303,Systems Programming Lab,CS,CS-3A,58,FAC_CS_06,Dr. Ken Thompson,Thursday,09:00 - 10:00,LAB-CS-SYS,Cloud Systems & OS Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+CS501_S1,CS501,Compiler Construction,CS,CS-5A,62,FAC_CS_02,Dr. Grace Hopper,Thursday,09:00 - 10:00,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ISE304_S2,ISE304,Data Structures for Info Sys,ISE,ISE-3A,56,FAC_ISE_05,Dr. Larry Page,Thursday,09:00 - 10:00,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+CV504_S1,CV504,Construction Project Management,CV,CV-5A,50,FAC_CV_07,Dr. Emily Warren Roebling,Thursday,09:00 - 10:00,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CV304_S1,CV304,Building Materials & Concrete,CV,CV-3A,48,FAC_CV_09,Dr. Robert Maillart,Thursday,09:00 - 10:00,CR-CV-106,CV Brunel Classroom 106,Classroom,60,,False,False,False,,,,,,Normal
+CS504_S1,CS504,Software Architecture,CS,CS-5A,62,FAC_CS_08,Dr. Margaret Hamilton,Thursday,10:00 - 11:00,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI503_S1,AI503,Generative & Language Models,AIML,AIML-5A,58,FAC_AIML_02,Dr. Yann LeCun,Thursday,10:00 - 11:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+ME301_S2,ME301,Engineering Thermodynamics,ME,ME-3A,52,FAC_ME_01,Dr. James Watt,Thursday,10:00 - 11:00,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ISE303_S1,ISE303,Cloud Computing Lab,ISE,ISE-3A,56,FAC_ISE_01,Dr. Tim Berners-Lee,Thursday,11:15 - 12:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+ME503_S3,ME503,Robotics & Mechatronics Lab,ME,ME-5A,54,FAC_ME_07,Dr. Ferdinand Porsche,Thursday,11:15 - 12:15,LAB-ME-CAD,CAD/CAM Digital Simulation Lab,Hardware Lab,60,,False,False,False,,,,,,Normal
+AI304_S3,AI304,Probabilistic Reasoning & Stats,AIML,AIML-3A,55,FAC_AIML_07,Dr. Daphne Koller,Thursday,11:15 - 12:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE504_S2,EE504,Control Systems Engineering,EE,EE-5A,52,FAC_EE_07,Dr. Hendrik Bode,Thursday,11:15 - 12:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+EE302_S1,EE302,Electric Circuit Analysis,EE,EE-3A,50,FAC_EE_03,Dr. Oliver Heaviside,Thursday,11:15 - 12:15,CR-EE-302,EE Maxwell Lecture Room 302,Classroom,60,,False,False,False,,,,,,Normal
+AI502_S3,AI502,Computer Vision & Visual AI,AIML,AIML-5A,58,FAC_AIML_05,Dr. Fei-Fei Li,Thursday,01:15 - 02:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+ME303_S1,ME303,Digital CAD Modeling Lab,ME,ME-3A,52,FAC_ME_04,Dr. Henry Ford,Thursday,01:15 - 02:15,LAB-ME-CAD,CAD/CAM Digital Simulation Lab,Hardware Lab,60,,False,False,False,,,,,,Normal
+CS502_S3,CS502,Distributed Systems,CS,CS-5A,62,FAC_CS_03,Dr. Barbara Liskov,Thursday,01:15 - 02:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ISE504_S1,ISE504,Enterprise Design Patterns,ISE,ISE-5A,60,FAC_ISE_08,Dr. Martin Fowler,Thursday,01:15 - 02:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+ISE302_S1,ISE302,Computer Networks Architecture,ISE,ISE-3A,56,FAC_ISE_02,Dr. Vint Cerf,Thursday,01:15 - 02:15,CR-ISE-204,ISE Codd Classroom 204,Classroom,65,,False,False,False,,,,,,Normal
+ME501_S2,ME501,Internal Combustion Engines,ME,ME-5A,54,FAC_ME_03,Dr. Rudolf Diesel,Thursday,01:15 - 02:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+CV302_S3,CV302,Hydraulics & Fluid Power,CV,CV-3A,48,FAC_CV_08,Dr. John Smeaton,Thursday,01:15 - 02:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CS503_S1,CS503,Applied Cryptography Lab,CS,CS-5A,62,FAC_CS_09,Dr. Shafi Goldwasser,Thursday,02:15 - 03:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+EE303_S3,EE303,Circuits & Sensors Lab,EE,EE-3A,50,FAC_EE_08,Dr. Harry Nyquist,Thursday,02:15 - 03:15,LAB-EE-HV,High Voltage & Grid Simulator Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CS304_S2,CS304,Discrete Mathematics & Logic,CS,CS-3A,58,FAC_CS_01,Dr. Alan Turing,Thursday,02:15 - 03:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI302_S2,AI302,Supervised Machine Learning,AIML,AIML-3A,55,FAC_AIML_04,Dr. Andrew Ng,Thursday,02:15 - 03:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE501_S2,EE501,Modern Power Grids,EE,EE-5A,52,FAC_EE_04,Dr. Charles Steinmetz,Thursday,02:15 - 03:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV502_S3,CV502,Bridge & Tunnel Engineering,CV,CV-5A,50,FAC_CV_02,Dr. Thomas Telford,Thursday,02:15 - 03:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+ME503_S2,ME503,Robotics & Mechatronics Lab,ME,ME-5A,54,FAC_ME_07,Dr. Ferdinand Porsche,Friday,09:00 - 10:00,LAB-ME-CAD,CAD/CAM Digital Simulation Lab,Hardware Lab,60,,False,False,False,,,,,,Normal
+AI501_S1,AI501,Deep Learning & Neural Nets,AIML,AIML-5A,58,FAC_AIML_01,Dr. Geoffrey Hinton,Friday,09:00 - 10:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+EE301_S1,EE301,Electromagnetic Fields,EE,EE-3A,50,FAC_EE_01,Dr. Michael Faraday,Friday,09:00 - 10:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV502_S2,CV502,Bridge & Tunnel Engineering,CV,CV-5A,50,FAC_CV_02,Dr. Thomas Telford,Friday,09:00 - 10:00,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CS501_S2,CS501,Compiler Construction,CS,CS-5A,62,FAC_CS_02,Dr. Grace Hopper,Friday,10:00 - 11:00,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ME504_S1,ME504,Industrial Engineering,ME,ME-5A,54,FAC_ME_09,Dr. Lillian Gilbreth,Friday,10:00 - 11:00,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+EE304_S2,EE304,Semiconductor Devices,EE,EE-3A,50,FAC_EE_09,Dr. William Shockley,Friday,10:00 - 11:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV301_S2,CV301,Theoretical Soil Mechanics,CV,CV-3A,48,FAC_CV_01,Dr. Karl von Terzaghi,Friday,10:00 - 11:00,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CS503_S2,CS503,Applied Cryptography Lab,CS,CS-5A,62,FAC_CS_09,Dr. Shafi Goldwasser,Friday,11:15 - 12:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+CV503_S2,CV503,Heavy Structures Testing Lab,CV,CV-5A,50,FAC_CV_06,Dr. Fazlur Khan,Friday,11:15 - 12:15,LAB-CV-STR,Structural Heavy Testing Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CS301_S1,CS301,Data Structures & Algorithms,CS,CS-3A,58,FAC_CS_04,Dr. Donald Knuth,Friday,11:15 - 12:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ISE301_S1,ISE301,Database Management Systems,ISE,ISE-3A,56,FAC_ISE_04,Dr. Edgar F. Codd,Friday,11:15 - 12:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+ME501_S3,ME501,Internal Combustion Engines,ME,ME-5A,54,FAC_ME_03,Dr. Rudolf Diesel,Friday,11:15 - 12:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ME304_S3,ME304,Fluid Mechanics Principles,ME,ME-3A,52,FAC_ME_05,Dr. Ludwig Prandtl,Friday,11:15 - 12:15,CR-ME-102,ME Dynamics Classroom 102,Classroom,60,,False,False,False,,,,,,Normal
+AI502_S1,AI502,Computer Vision & Visual AI,AIML,AIML-5A,58,FAC_AIML_05,Dr. Fei-Fei Li,Friday,01:15 - 02:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+AI303_S3,AI303,Applied ML & MLOps Lab,AIML,AIML-3A,55,FAC_AIML_09,Dr. Peter Norvig,Friday,01:15 - 02:15,LAB-CS-SYS,Cloud Systems & OS Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+EE303_S1,EE303,Circuits & Sensors Lab,EE,EE-3A,50,FAC_EE_08,Dr. Harry Nyquist,Friday,01:15 - 02:15,LAB-EE-HV,High Voltage & Grid Simulator Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+ISE503_S1,ISE503,Big Data Engineering Lab,ISE,ISE-5A,60,FAC_ISE_06,Dr. Sergey Brin,Friday,02:15 - 03:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+CS303_S1,CS303,Systems Programming Lab,CS,CS-3A,58,FAC_CS_06,Dr. Ken Thompson,Friday,02:15 - 03:15,LAB-CS-SYS,Cloud Systems & OS Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+AI301_S3,AI301,Foundations of Artificial Intelligence,AIML,AIML-3A,55,FAC_AIML_08,Dr. Stuart Russell,Friday,02:15 - 03:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+CS301_S2,CS301,Data Structures & Algorithms,CS,CS-3A,58,FAC_CS_04,Dr. Donald Knuth,Saturday,09:00 - 10:00,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI504_S2,AI504,Reinforcement Learning Agents,AIML,AIML-5A,58,FAC_AIML_06,Dr. Demis Hassabis,Saturday,09:00 - 10:00,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+AI302_S3,AI302,Supervised Machine Learning,AIML,AIML-3A,55,FAC_AIML_04,Dr. Andrew Ng,Saturday,09:00 - 10:00,CR-AIML-402,AIML Bengio Hall 402,Classroom,65,,False,False,False,,,,,,Normal
+ME504_S2,ME504,Industrial Engineering,ME,ME-5A,54,FAC_ME_09,Dr. Lillian Gilbreth,Saturday,09:00 - 10:00,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+ME304_S1,ME304,Fluid Mechanics Principles,ME,ME-3A,52,FAC_ME_05,Dr. Ludwig Prandtl,Saturday,09:00 - 10:00,CR-ME-102,ME Dynamics Classroom 102,Classroom,60,,False,False,False,,,,,,Normal
+ME503_S1,ME503,Robotics & Mechatronics Lab,ME,ME-5A,54,FAC_ME_07,Dr. Ferdinand Porsche,Saturday,10:00 - 11:00,LAB-ME-CAD,CAD/CAM Digital Simulation Lab,Hardware Lab,60,,False,False,False,,,,,,Normal
+CV303_S3,CV303,Advanced Geomatics Surveying Lab,CV,CV-3A,48,FAC_CV_05,Dr. Arthur Casagrande,Saturday,10:00 - 11:00,LAB-CV-STR,Structural Heavy Testing Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+ISE502_S2,ISE502,Network Security & Cryptography,ISE,ISE-5A,60,FAC_ISE_03,Dr. Radia Perlman,Saturday,10:00 - 11:00,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+ISE304_S1,ISE304,Data Structures for Info Sys,ISE,ISE-3A,56,FAC_ISE_05,Dr. Larry Page,Saturday,10:00 - 11:00,CR-ISE-204,ISE Codd Classroom 204,Classroom,65,,False,False,False,,,,,,Normal
+EE503_S3,EE503,Digital Signal Processing,EE,EE-5A,52,FAC_EE_06,Dr. Claude Shannon,Saturday,10:00 - 11:00,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CS302_S3,CS302,Operating Systems Internals,CS,CS-3A,58,FAC_CS_05,Prof. Linus Torvalds,Saturday,11:15 - 12:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ISE301_S2,ISE301,Database Management Systems,ISE,ISE-3A,56,FAC_ISE_04,Dr. Edgar F. Codd,Saturday,11:15 - 12:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+CS303_S3,CS303,Systems Programming Lab,CS,CS-3A,58,FAC_CS_06,Dr. Ken Thompson,Saturday,01:15 - 02:15,LAB-CS-AI,AI & Supercomputing Cluster Lab,Computer Lab,65,,False,False,False,,,,,,Normal
+EE502_S3,EE502,High Voltage Engineering Lab,EE,EE-5A,52,FAC_EE_05,Dr. Edith Clarke,Saturday,01:15 - 02:15,LAB-EE-HV,High Voltage & Grid Simulator Lab,Hardware Lab,55,,False,False,False,,,,,,Normal
+CS502_S2,CS502,Distributed Systems,CS,CS-5A,62,FAC_CS_03,Dr. Barbara Liskov,Saturday,01:15 - 02:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+AI503_S3,AI503,Generative & Language Models,AIML,AIML-5A,58,FAC_AIML_02,Dr. Yann LeCun,Saturday,01:15 - 02:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+ISE302_S2,ISE302,Computer Networks Architecture,ISE,ISE-3A,56,FAC_ISE_02,Dr. Vint Cerf,Saturday,01:15 - 02:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+ME502_S2,ME502,Heat & Mass Transfer,ME,ME-5A,54,FAC_ME_08,Dr. Sadi Carnot,Saturday,01:15 - 02:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+CS504_S3,CS504,Software Architecture,CS,CS-5A,62,FAC_CS_08,Dr. Margaret Hamilton,Saturday,02:15 - 03:15,CR-CS-202,CS Hopper Classroom 202,Classroom,65,,False,False,False,,,,,,Normal
+ISE504_S3,ISE504,Enterprise Design Patterns,ISE,ISE-5A,60,FAC_ISE_08,Dr. Martin Fowler,Saturday,02:15 - 03:15,CR-ISE-203,ISE Shannon Classroom 203,Classroom,65,,False,False,False,,,,,,Normal
+AI501_S3,AI501,Deep Learning & Neural Nets,AIML,AIML-5A,58,FAC_AIML_01,Dr. Geoffrey Hinton,Saturday,02:15 - 03:15,CR-AIML-401,AIML Hinton Hall 401,Classroom,65,,False,False,False,,,,,,Normal
+ME302_S1,ME302,Strength of Materials,ME,ME-3A,52,FAC_ME_06,Dr. Stephen Timoshenko,Saturday,02:15 - 03:15,CR-ME-101,ME Thermodynamics Classroom 101,Classroom,60,,False,False,False,,,,,,Normal
+EE504_S3,EE504,Control Systems Engineering,EE,EE-5A,52,FAC_EE_07,Dr. Hendrik Bode,Saturday,02:15 - 03:15,CR-EE-301,EE Faraday Lecture Room 301,Classroom,60,,False,False,False,,,,,,Normal
+CV504_S3,CV504,Construction Project Management,CV,CV-5A,50,FAC_CV_07,Dr. Emily Warren Roebling,Saturday,02:15 - 03:15,CR-CV-105,CV Terzaghi Classroom 105,Classroom,60,,False,False,False,,,,,,Normal
+CV304_S3,CV304,Building Materials & Concrete,CV,CV-3A,48,FAC_CV_09,Dr. Robert Maillart,Saturday,02:15 - 03:15,CR-CV-106,CV Brunel Classroom 106,Classroom,60,,False,False,False,,,,,,Normal
